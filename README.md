@@ -1,5 +1,5 @@
 # Project Background
-The school board and mayor has asked for help with making strategic decisions regarding future school, budgets and priorities. The first task is to analyze the district-wide standardized test results. Provided is the access to every student's math and reading scores, as well as various information on their school. In order to showcase the obvious trends in school performe, the data needs to be aggregated. 
+The school board and mayor has asked for help with making strategic decisions regarding future school budgets and priorities. The first task is to analyze the district-wide standardized test results. Provided is the access to every student's math and reading scores, as well as various information on their school. In order to showcase the obvious trends in school performe, the data needs to be aggregated. 
 
 ### Required files:
 In the Resources folder, there are 2 files: 
